@@ -100,6 +100,7 @@ AI: Sure, ...
 ```
 
 ## 📸 Screenshots
+<img width="1319" height="485" alt="2026-08-16" src="https://github.com/user-attachments/assets/d02030df-d658-4ae2-ab58-e996a1af5d33" />
 
 - n8n Workflow
 - Document Upload
