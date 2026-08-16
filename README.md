@@ -110,16 +110,9 @@ AI: Sure, ...
 
 ```
 RAG-Based-QA-AI-Agent/
-│
-├── n8n/
-│   └── rag-workflow.json
-│
-├── screenshots/
-│   ├── workflow.png
-│   
-│
+
 ├── README.md
-└── LICENSE
+
 ```
 
 ## 🔮 Future Improvements
